@@ -4,10 +4,10 @@
 # make & run
 
 1. multi
-> node index.js
+> cd multi; node index.js
 
 2. lua
-> node index.js
+> cd lua; node index.js
 
 3. module
 > cd module; make
